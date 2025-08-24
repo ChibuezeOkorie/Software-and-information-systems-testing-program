@@ -1,6 +1,6 @@
 This program demostrates and defines a superclass Vehicle, which has attributes like type, make, and model, and abstract methods describeVehicle() and rateQuality() that must be implemented by subclasses.
 
-****************It creates two subclasses:***************************
+****************It creates two subclasses:
 
 Bicycle, which adds attributes like bicycleType and rating, and implements its own way of describing a bicycle and rating its quality.
 
